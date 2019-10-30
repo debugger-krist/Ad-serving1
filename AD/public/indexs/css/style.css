@@ -271,7 +271,7 @@ div.checker:focus, div.button:focus, div.radio:focus, div.uploader:focus{outline
 	font-family:"MV Boli";
 	font-weight:bold;
 	font-size:37px;
-	color:lightpink;
+	color:lightcoral;
 	}
 .header_nav .media_logo a { width: 175px; overflow: hidden; line-height:80px; padding:13px 0px;  display: block;}
 .header_nav .cwq_logotxt {border-left: 1px solid #e9e8e8; float:left; width:190px;  height: 48px; margin:20px 0; padding: 0px 0px 0px 20px; background: none; text-align: left; font-size:16px;z-index: 10;}
